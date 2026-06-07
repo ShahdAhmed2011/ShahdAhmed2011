@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shahd 👋
 
-<!--
-**ShahdAhmed2011/ShahdAhmed2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15-year-old student currently diving deep into software development and logic building. Right now, my main focus is mastering programming fundamentals and writing clean code.
 
-Here are some ideas to get you started:
+### 💻 What I'm working on:
+* 🐍 Learning **Python** and problem-solving.
+* 🛠️ Exploring developer tools like **VS Code** and **Git/GitHub**.
+* 🚀 Building mini-projects to practice my logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech & Tools:
+`Python` / `Git` / `GitHub` / `VS Code`
+
+---
+_“Code is like humor. When you have to explain it, it’s bad.”_
